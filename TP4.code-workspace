@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "TP4",
+			"path": "."
+		},
+		{
+			"name": "imagenes.vs",
+			"path": "../imagenes.vs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TP4"
+	}
+}
